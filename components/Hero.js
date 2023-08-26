@@ -5,7 +5,7 @@ const Hero = () => {
     <main className="flex min-h-screen flex-col items-center bg-amber-200 justify-between p-24">
       <div className="grid gap-3">
         <h1 className="self-center text-5xl font-bold">
-          Chatwith your Flightmates in real time!
+          Chat with your flightmates in real time!
         </h1>
         <p className="self-center text-xl font-semibold">
           Please enter your flight no.:
